@@ -8,6 +8,29 @@
 
 A JIT language, as an idea: being designed, nothing built.
 
+## Q & A
+
+<details>
+<summary>Are you abandoning CyborgPL.</summary>
+
+No, Lilith is just an idea.
+
+</details>
+
+<details>
+<summary>So, when are you gonna create Lilith?</summary>
+
+Maybe never
+
+</details>
+
+<details>
+<summary>Where did you get the name?</summary>
+
+From a hentai anime 🤦
+
+</details>
+
 ## License
 
 Apache-2.0 WITH LLVM-exception ([`LICENSE`](LICENSE)), as CyborgPL.
